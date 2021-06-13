@@ -8,4 +8,4 @@
 >After cloning the repo use **yarn install** or **npm install** to download all dependancies.
 >
 
-credit - `*Colt Steele*`
+credit - `Colt Steele`

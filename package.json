@@ -1,0 +1,11 @@
+{
+  "name": "js-ds-algo",
+  "version": "1.0.0",
+  "description": "Data Structures & Algorithm in JS",
+  "main": "index.js",
+  "author": "Jyotiranjan Sahoo <jsahoo.p@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^16.3.0"
+  }
+}

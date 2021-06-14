@@ -26,7 +26,7 @@ console.log("Concat ->", vegetables.concat(fruits));
 
 // 4 - Slice
 const slicedFruit = fruits.slice(2, 4);
-console.log(slicedFruit);
+console.log("Slice ->", slicedFruit);
 // Time Complexity - O(n)
 
 // 5 - Splice

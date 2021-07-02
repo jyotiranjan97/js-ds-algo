@@ -1,10 +1,10 @@
 # Problem Solving
 
-- **Understand the Problem**
-- **Explore Concrete Examples**
-- **Break it Down**
-- **Solve/Simplify**
-- **Look back and Refactor**
+> - **Understand the Problem**
+> - **Explore Concrete Examples**
+> - **Break it Down**
+> - **Solve/Simplify**
+> - **Look back and Refactor**
 
 ### Understand the Problem
 

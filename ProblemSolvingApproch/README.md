@@ -1,4 +1,4 @@
-# Problem Solving
+# Problem Solving Approach
 
 > - **Understand the Problem**
 > - **Explore Concrete Examples**

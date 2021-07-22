@@ -53,6 +53,8 @@ Almost identical to Singly Linked Lists, except every node has another pointer, 
 
 > See [DoublyLinkedList.js](DoublyLinkedList.js) for implementation
 
+---
+
 ### Unshift
 
 **Adding a node to the beginning of the Doubly Linked List**
@@ -85,6 +87,8 @@ Almost identical to Singly Linked Lists, except every node has another pointer, 
   - Return the node once it is found
 
 > See [DoublyLinkedList.js](DoublyLinkedList.js) for implementation
+
+---
 
 ### Set
 

@@ -1,9 +1,9 @@
 ### Insertion Sort
 
-> - Builds up the sort by gradually creating a larger left half which is always sorted
-> - It works well when data is coming online and we want to sort them as soon it arrives.
-> - Time Complexity - O(n^2)
->
+- Builds up the sort by gradually creating a larger left half which is always sorted
+- It works well when data is coming online and we want to sort them as soon it arrives.
+- Time Complexity - O(n^2)
+
 > See [InsertionSort.js](InsertionSort.js) for reference.
 
 ## Difference between Bubble, Selection & Insertion Sort

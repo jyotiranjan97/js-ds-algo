@@ -3,12 +3,6 @@
 - A data structure that consists of nodes in a parent / child relationship
 - List -> Linear; Tree -> Nonlinear
 - A Tree shoud have atleast a **root node** and each child node should have maximum one **parent** node.
-- **Root** - The top node in a tree.
-- **Child** -A node directly connected to another node when moving away from the Root.
-- **Parent** - The converse notion of a child.
-- **Siblings** -A group of nodes with the same parent.
-- **Leaf** - A node with no children.
-- **Edge** - The connection between one node and another.
 - Applications
   - HTML DOM
   - Network Routing
@@ -16,6 +10,17 @@
   - Artificial Intelligence
   - Folders in Operating Systems
   - Computer File Systems
+
+---
+
+### Terminology
+
+- **Root** - The top node in a tree.
+- **Child** -A node directly connected to another node when moving away from the Root.
+- **Parent** - The converse notion of a child.
+- **Siblings** -A group of nodes with the same parent.
+- **Leaf** - A node with no children.
+- **Edge** - The connection between one node and another.
 
 ---
 
